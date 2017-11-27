@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Text to unicode value</string>
+    <string name="input_text">Input text</string>
+    <string name="int_unicode_value">Int unicode value</string>
+    <string name="hex_unicode_value">Hex unicode value</string>
+    <string name="btnName">ПЫЩ!</string>
+</resources>
